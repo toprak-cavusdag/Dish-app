@@ -19,13 +19,11 @@ const Veggie = () => {
       setVeggie(JSON.parse(check));
     } else {
       const api = await axios.get(
-        `https://api.spoonacular.com/recipes/random?apiKey=${apiKey}&number=9`
+        `https://api.spoonacular.com/recipes/random?apiKey=${apiKey}&number=9&tags=vegetarian`
       );
-
       const data = await api.data.recipes;
 
       localStorage.setItem('veggie ', JSON.stringify(data));
-
       setVeggie(data);
     }
   };
@@ -40,7 +38,7 @@ const Veggie = () => {
             arrows: false,
             pagination: false,
             drag: 'free',
-            gap: '5rem',
+            gap: '2rem',
           }}
         >
           {veggie.map((recipe) => {
@@ -73,7 +71,7 @@ const Card = styled.div`
   img {
     border-radius: 2rem;
     position: absolute;
-    witdh: 100%;
+    width: 100%;
     left: 0;
     height: 100%;
     object-fit: cover;
