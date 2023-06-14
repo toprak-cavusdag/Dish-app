@@ -1,5 +1,5 @@
 
-# Welcome to my React Dish Project
+# Welcome to my React Dish Project 🍲
 
 You can watch the Project here [live]: https://toprak-cavusdag-dish-app.netlify.app/
 
