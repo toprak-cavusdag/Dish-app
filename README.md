@@ -1,77 +1,63 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Welcome to my React Dish Project
 
-## Available Scripts
+You can watch the Project here [live]: https://toprak-cavusdag-dish-app.netlify.app/
 
-In the project directory, you can run:
+Contact with me: https://www.linkedin.com/in/toprak-%C3%A7avu%C5%9Fda%C4%9F-5184aa208/
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Base Tech:** React,  TailwindCSS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**API:** https://spoonacular.com/food-api
 
-### `npm run eject`
+**Axios:** 1.3.4
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**React-redux:** 8.0.5
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**React-router-dom:** 6.8.2
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**styled-components:** 5.3.8
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**framer-motion:** 10.1.0
 
-## Learn More
+**Extras:** React Icons - Simple Slider
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  
+# Screenshots
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Home Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Search, Filter and Card Section**
 
-### Analyzing the Bundle Size
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/chkofng.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Filtered Section**
 
-### Advanced Configuration
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/hme81ru.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+### Dish Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Flavor-House
-# Flavor-House
-# Delicios-app
-# Delicios-app
-# Delicios-app
-# Dish-app
-# Dish-app
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/qoo7crg.png)
+
+## Feedback
+
+If you have any feedback, please toprakcavusdag58@gmail.com contact me at the address.
+
+
+  
+##  Acknowledgments
+
+- [@developedbyed](https://github.com/developedbyed) Project producer / trainer
